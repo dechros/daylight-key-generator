@@ -23,7 +23,7 @@ using System.Text.RegularExpressions;
 namespace DayLightKeyGenerator.View
 {
     /// <summary>
-    /// MainWindow.xaml etkileşim mantığı
+    /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
